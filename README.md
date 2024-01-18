@@ -1,6 +1,7 @@
-> [!info] CompTIA SY0-701 Security+ Training Course  
-> The official playlist for Professor Messer's SY0-701 Security+ Course  
-> [https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)  
+# CompTIA SY0-701 Security+ Personal Study & Notes
+
+The official playlist for Professor Messer's SY0-701 Security+ Course  
+[https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)  
 
 # [1.0 General Security Concepts](https://v-le.github.io/SY0-701_Notes/SY0-701_Notes/1.0%20General%20Security%20Concepts.html)
 # [2.0 Threats, Vulnerabilities, and Mitigations]()

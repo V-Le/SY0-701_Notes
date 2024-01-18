@@ -1,6 +1,4 @@
-# CompTIA SY0-701 Security+ Personal Study & Notes
-
-[Github Pages](https://v-le.github.io/SY0-701_Notes/)
+# [CompTIA SY0-701 Security+ Personal Study & Notes](https://v-le.github.io/SY0-701_Notes/)
 
 [The official playlist for Professor Messer's SY0-701 Security+ Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 
